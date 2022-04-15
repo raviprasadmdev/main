@@ -5,6 +5,7 @@ thi is
 dhckyuwehcc
 bahcwlvf
 
+<<<<<<< HEAD
 bahcwlvf
 
 thieeeenjknclvkejfhws.n ,jcqwba
@@ -13,3 +14,6 @@ jwbfeenv
 ndsiwdddjdokowjie .
 dfjdcjdmmdk 
 jskmskssm
+=======
+thieeeenjknclvkejfhws.n ,jcqwba.
+>>>>>>> cd746f4eafdda997db1801c33206ba8fa5be70c5
